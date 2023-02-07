@@ -6,7 +6,11 @@
 <a href="https://www.linkedin.com/in/wesleypjesus" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <!--
 **wesleyjesus/wesleyjesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://cdn.jsdelivr.net/npm/simple-icons@8.4.0/icons/
+https://github.com/iuricode/readme-template/blob/main/profile/profile7.md
+https://github.com/DiogoRealles
+https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
+https://github.com/tandpfun/skill-icons#readme
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
